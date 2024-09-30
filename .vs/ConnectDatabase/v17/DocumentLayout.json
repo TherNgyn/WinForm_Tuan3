@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ConnectDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A48D0010-347B-40A9-A45E-C6E4E1188C1F}|ConnectDatabase\\ConnectDatabase.csproj|c:\\users\\hp\\source\\repos\\connectdatabase\\connectdatabase\\formmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48D0010-347B-40A9-A45E-C6E4E1188C1F}|ConnectDatabase\\ConnectDatabase.csproj|solutionrelative:connectdatabase\\formmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48D0010-347B-40A9-A45E-C6E4E1188C1F}|ConnectDatabase\\ConnectDatabase.csproj|C:\\Users\\HP\\source\\repos\\ConnectDatabase\\connectdatabase\\formmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A48D0010-347B-40A9-A45E-C6E4E1188C1F}|ConnectDatabase\\ConnectDatabase.csproj|solutionrelative:connectdatabase\\formmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48D0010-347B-40A9-A45E-C6E4E1188C1F}|ConnectDatabase\\ConnectDatabase.csproj|c:\\users\\hp\\source\\repos\\connectdatabase\\connectdatabase\\formmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48D0010-347B-40A9-A45E-C6E4E1188C1F}|ConnectDatabase\\ConnectDatabase.csproj|solutionrelative:connectdatabase\\formmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ConnectDatabase\\ConnectDatabase\\FormManagement.cs",
+              "RelativeDocumentMoniker": "ConnectDatabase\\FormManagement.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ConnectDatabase\\ConnectDatabase\\FormManagement.cs [Design]",
+              "RelativeToolTip": "ConnectDatabase\\FormManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:28:16.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ConnectDatabase\\ConnectDatabase\\FormManagement.Designer.cs",
+              "RelativeDocumentMoniker": "ConnectDatabase\\FormManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ConnectDatabase\\ConnectDatabase\\FormManagement.Designer.cs",
+              "RelativeToolTip": "ConnectDatabase\\FormManagement.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:43:50.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormManagement.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ConnectDatabase\\ConnectDatabase\\FormManagement.cs",
+              "RelativeDocumentMoniker": "ConnectDatabase\\FormManagement.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ConnectDatabase\\ConnectDatabase\\FormManagement.cs",
+              "RelativeToolTip": "ConnectDatabase\\FormManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:48:16.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
